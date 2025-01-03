@@ -1,16 +1,16 @@
-## Conversor de Moedas
+## CoinTax
 
-Conversor de Moedas é um aplicativo de conversão de moedas simples, desenvolvido com Python e a interface gráfica PySimpleGUI. Este projeto permite que os usuários convertam um valor de uma moeda para outra usando uma API de câmbio em tempo real. A ideia é fornecer uma solução prática e fácil para usuários que necessitam de conversões rápidas entre moedas.
+CoinTax é um aplicativo de conversão de moedas simples, desenvolvido com Python e a interface gráfica PySimpleGUI. Este projeto permite que os usuários convertam um valor de uma moeda para outra usando uma API de câmbio em tempo real. A ideia é fornecer uma solução prática e fácil para usuários que necessitam de conversões rápidas entre moedas.
 
 ## Objetivo
 
-O objetivo principal do Conversor de Moedas é fornecer uma ferramenta simples e eficaz para converter valores entre diferentes moedas, utilizando taxas de câmbio atualizadas pela API. O projeto também serve como uma demonstração do uso de APIs externas para alimentar um aplicativo com dados em tempo real, e como exemplo prático do uso da biblioteca PySimpleGUI para criação de interfaces gráficas.
+O objetivo principal do CoinTax é fornecer uma ferramenta simples e eficaz para converter valores entre diferentes moedas, utilizando taxas de câmbio atualizadas pela API. O projeto também serve como uma demonstração do uso de APIs externas para alimentar um aplicativo com dados em tempo real, e como exemplo prático do uso da biblioteca PySimpleGUI para criação de interfaces gráficas.
 
-Seja bem-vindo ao Conversor de Moedas e comece a converter valores de maneira simples e rápida!
+Seja bem-vindo ao CoinTax e comece a converter valores de maneira simples e rápida!
 
 ## Capturas de Tela 
 
-Aqui estão algumas capturas de tela do Conversor de Moedas:
+Aqui estão algumas capturas de tela :
 
 ## Moedas Disponiveis
 
@@ -24,7 +24,7 @@ Aqui estão algumas capturas de tela do Conversor de Moedas:
 
 ## Tecnologias Utilizadas
 
-O Conversor de Moedas utiliza as seguintes tecnologias e ferramentas:
+O CoinTax utiliza as seguintes tecnologias e ferramentas:
 
 
 Python 3.x
@@ -37,7 +37,7 @@ API de Câmbio - A API usada é a ExchangeRate-API para obter taxas de câmbio a
 
 ## Instalação
 
-Para executar o Conversor de Moedas localmente, siga as instruções abaixo:
+Para executar o CoinTax localmente, siga as instruções abaixo:
 
 Clone o repositório:
 git clone https://github.com/gabrielms040/ConversorDeMoeda.py.git
@@ -54,7 +54,7 @@ A interface gráfica será aberta, onde você poderá selecionar as moedas de or
 
 ## API Utilizada
 
-O Conversor de Moedas consome dados de câmbio em tempo real através da API de Câmbio. A API é acessada utilizando uma chave de API (que você deve configurar em seu código, se necessário). A API retorna as taxas de câmbio mais recentes para as moedas que você escolheu.
+O CoinTax consome dados de câmbio em tempo real através da API de Câmbio. A API é acessada utilizando uma chave de API (que você deve configurar em seu código, se necessário). A API retorna as taxas de câmbio mais recentes para as moedas que você escolheu.
 
 ## Como Obter uma Chave da API
 
@@ -66,7 +66,7 @@ Obtenha a chave da API e substitua-a no código onde api_key está configurado.
 
 ## Contribuindo
 
-Se você quiser contribuir com o Conversor de Moedas, siga estas etapas:
+Se você quiser contribuir com o CoinTax, siga estas etapas:
 
 1. Abra uma issue para discutir a mudança que você gostaria de fazer.
 2. Faça um fork do repositório e crie um branch para sua contribuição.
